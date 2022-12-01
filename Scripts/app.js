@@ -1,3 +1,4 @@
+console.log("Count Down started")
 let countdownDate = new Date("Mar 22, 2023 15:37:25");
 let days = document.querySelector(".counter .days .time span")
 let hours = document.querySelector(".counter .hours .time span")
